@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on https://getsmarty.tech (My YouTube channel for smart home and electronics)
+- 📫 How to reach me: https://getsmarty.tech/en/having-troubles
+- ⚡ More about me: https://maslyankov.com
+
 <!--
 **maslyankov/maslyankov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
